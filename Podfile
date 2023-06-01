@@ -9,6 +9,8 @@ target 'Sports-App' do
   pod 'Kingfisher', '~> 7.0'
   pod 'Alamofire'
   pod 'Reachability', '~> 3.2'
+  pod 'lottie-ios'
+
   target 'Sports-AppTests' do
     inherit! :search_paths
     # Pods for testing
